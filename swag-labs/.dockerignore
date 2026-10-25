@@ -1,0 +1,5 @@
+artifacts
+sc-orchestrate.log
+servier-orchestrate.log
+node_modules
+build
